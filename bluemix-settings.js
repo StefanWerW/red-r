@@ -49,7 +49,9 @@ var settings = module.exports = {
     // Serve up the welcome page
     httpStatic: path.join(__dirname,"public"),
 
-    functionGlobalContext: { },
+    functionGlobalContext: {
+        parsePodcast:require('node-podcast-parser')
+    },
 
     storageModule: require("./couchstorage")
 }
