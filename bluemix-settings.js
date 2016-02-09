@@ -50,7 +50,7 @@ var settings = module.exports = {
     httpStatic: path.join(__dirname,"public"),
 
     functionGlobalContext: {
-        parsePodcast:require('node-podcast-parser')
+        parsePodcast: require("node-podcast-parser")
     },
 
     storageModule: require("./couchstorage")
