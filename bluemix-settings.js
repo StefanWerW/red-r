@@ -50,6 +50,7 @@ var settings = module.exports = {
     httpStatic: path.join(__dirname,"public"),
 
     functionGlobalContext: {
+        githubApi: require("github-api")
         //parsePodcast: require("node-podcast-parser")
     },
 
