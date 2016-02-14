@@ -8,4 +8,4 @@ applications:
   disk_quota: 1024M
   services:
   - red-r-cloudantNoSQLDB
-  command: npm i -g npm
+  command: sudo npm install npm -g
