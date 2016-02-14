@@ -20,6 +20,7 @@
         "node-podcast-parser":"1.x"
     },
     "engines": {
-        "node": "0.10.x"
+        "node": "0.12.2",
+        "npm": "2.7.4"
     }
 }
