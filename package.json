@@ -17,11 +17,10 @@
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-file-function":"1.x",
         "node-red-node-aws":"0.x",
-        "node-podcast-parser":"1.x",
         "github-api":"0.x"
     },
     "engines": {
-        "node": "4.3.0",
+        "node": "5.6.0",
         "npm": "3.7.2"
     }
 }
