@@ -21,7 +21,7 @@
         "github-api":"0.x"
     },
     "engines": {
-        "node": "4.x",
+        "node": "4.3.0",
         "npm": "3.7.2"
     }
 }
