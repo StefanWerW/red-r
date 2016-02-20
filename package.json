@@ -17,7 +17,7 @@
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-file-function":"1.x",
         "node-red-node-aws":"^0.1.0",
-        "node-red-contrib-github":"^0.1.1",
+        "node-red-contrib-github":"^0.1.2",
         "node-red-contrib-yield":"^1.0.2"
     },
     "engines": {
