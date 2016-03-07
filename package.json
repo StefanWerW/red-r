@@ -19,7 +19,8 @@
         "node-red-node-aws":"^0.1.0",
         "node-red-contrib-github":"^0.1.5",
         "node-red-contrib-yield":"^1.0.2",
-        "node-red-node-youtube":"0.x"
+        "node-red-node-youtube":"0.x",
+        "node-red-contrib-ui":"1.x"
     },
     "engines": {
         "node": "0.x",
